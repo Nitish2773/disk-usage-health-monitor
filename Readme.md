@@ -276,9 +276,6 @@ SMART overall-health self-assessment test result: PASSED
 | `Write-Host "Run: smartctl..."` | Suggests an advanced tool for SMART health | For users needing full diagnostic insights     |
 
 ````
-----
----
-
 ## 🚀 Why This Project Matters
 
 | 🧰 Skill            | 🛠️ Tool Used         | 🌍 Real-World Benefit               |
